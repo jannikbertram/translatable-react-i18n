@@ -117,11 +117,12 @@
     "slow-connection-1": "Streetmix wasn’t able to connect to the Internet in awhile now.",
     "slow-connection-2": "You might want to reload the page and try again. Please note you might lose the latest change to the street. Sorry!",
     "no-connection": "Streetmix is having trouble connecting to the Internet.",
-    "more-info": "More info"
+    "more-info": "More information",
+    "additional-information": "Additional information"
   },
   "error": {
     "button": {
-      "home": "Go to the homepage",
+      "home": "Homepage",
       "sign-in": "Sign in again",
       "reload": "Reload the page",
       "return": "Return to Streetmix",
@@ -160,7 +161,8 @@
     "generic-error-title": "Something went wrong.",
     "generic-error-description": "We’re sorry – something went wrong.",
     "error-code": "(Error {code}.)",
-    "need-help-link": "Need help?"
+    "need-help-link": "Need help?",
+    "an-added-error": "This error was added by a bot."
   },
   "btn": {
     "reload": "Reload",
