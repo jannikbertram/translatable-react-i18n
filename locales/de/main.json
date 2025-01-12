@@ -117,7 +117,8 @@
     "slow-connection-1": "Streetmix konnte seit einiger Zeit keine Verbindung zum Internet herstellen.",
     "slow-connection-2": "Sie sollten die Seite neu laden und es erneut versuchen. Bitte beachten Sie, dass Sie die letzte Änderung an der Straße möglicherweise verlieren. Entschuldigung!",
     "no-connection": "Streetmix hat Probleme beim Herstellen einer Internetverbindung.",
-    "more-info": "Mehr Infos"
+    "more-info": "Mehr Infos",
+    "additional-information": "Zusätzliche Informationen"
   },
   "error": {
     "button": {
@@ -160,7 +161,8 @@
     "generic-error-title": "Etwas ist schiefgelaufen.",
     "generic-error-description": "Es tut uns leid - etwas ist schiefgelaufen.",
     "error-code": "(Fehler {code}.)",
-    "need-help-link": "Brauchen Sie Hilfe?"
+    "need-help-link": "Brauchen Sie Hilfe?",
+    "an-added-error": "Dieser Fehler wurde von einem Bot hinzugefügt."
   },
   "btn": {
     "reload": "Neu laden",
