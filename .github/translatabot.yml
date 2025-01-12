@@ -1,0 +1,5 @@
+version: 1
+defaultPath: locales/en/main.json # Path to the default translation file
+languages:
+  - relativePath: ../de/main.json # Relative path to the auto-translated file
+    language: German # English name of the language to be translated to.
